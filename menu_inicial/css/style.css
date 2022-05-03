@@ -1,0 +1,75 @@
+body{
+    background-image: url(../img/logo4.jpg);
+    background-size: cover;  
+    background-color: black;
+    background-position: center;
+    background-attachment: fixed
+    
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Monoton&family=Open+Sans:wght@300;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allan:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+.menuTexto {
+    color: orange;
+    position: relative;
+    left: 230px;
+    top: 180px;
+    font-family: 'Monoton', cursive;
+    font-size: 45px;
+}
+
+.menuTexto1 {
+    color: white;
+    position: relative;
+    left: 360px;
+    top: 180px;
+    font-family: 'Allan', cursive;
+    font-size: 40px;
+}
+
+.menuTexto2 {
+    color: orange;
+    position: relative;
+    left: 260px;
+    top: 180px;
+    font-family: 'Monoton', cursive;
+    font-size: 70px;
+}
+
+.menuImage {
+    width: 350px;
+    height: 350px;
+    position: relative;
+    left: 430px;
+    top: 200px;
+}
+
+.paragrafos {
+    color: aliceblue;
+    position: relative;
+    top: 200px;
+    left: 150px;
+    box-sizing: content-box;
+    font-size: 30px;
+    
+}
+
+.home {
+    color: rgb(0, 255, 76);
+    font-size: 30px;
+}
+
+.cabecalho {
+    
+    color: aliceblue;
+    padding: 10px;
+    font-size: 30px;
+    font-family: 'Anton', sans-serif;
+    position: relative;
+    left: 210px;
+}
+
+
+/*CSS do Sobre nós /*  
